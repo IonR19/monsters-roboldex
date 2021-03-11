@@ -30,4 +30,3 @@ var t,r=function(t){"use strict";var r,e=Object.prototype,n=e.hasOwnProperty,o="
 },{"react":"n8MK"}],"YA79":[function(require,module,exports) {
 "use strict";var e=l(require("react")),r=l(require("react-dom")),t=l(require("./components/App"));require("regenerator-runtime"),require("./index.css");var u=l(require("./Lifecycle"));function l(e){return e&&e.__esModule?e:{default:e}}r.default.render(e.default.createElement(e.default.Fragment,null,e.default.createElement(u.default,null),e.default.createElement(t.default,null)),document.querySelector("#root"));
 },{"react":"n8MK","react-dom":"NKHc","./components/App":"inTl","regenerator-runtime":"QVnC","./index.css":"dIVX","./Lifecycle":"wLSZ"}]},{},["YA79"], null)
-//# sourceMappingURL=/source.236381e1.js.map
